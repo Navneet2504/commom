@@ -1,0 +1,1 @@
+{"name":"Local: contet","url":"d:\\commom\\c++\\contet.cpp","tests":[{"id":1671214792267,"input":"4\n3\n4 4 4\n4\n2 3 3 2\n4\n1 2 2 3\n6\n5 5 1 5 1 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\commom\\c++\\contet.cpp","group":"local","local":true}

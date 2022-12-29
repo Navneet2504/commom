@@ -1,0 +1,1 @@
+{"name":"Local: post","url":"d:\\commom\\dsa\\post.c","tests":[{"id":1669440395741,"input":"A+B-C/D*F","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\commom\\dsa\\post.c","group":"local","local":true}

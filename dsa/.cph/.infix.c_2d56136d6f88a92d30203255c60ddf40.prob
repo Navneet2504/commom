@@ -1,0 +1,1 @@
+{"name":"Local: infix","url":"d:\\commom\\dsa\\infix.c","tests":[{"id":1669889506957,"input":"A+B*C/(E-F)","output":""},{"id":1669889896057,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\commom\\dsa\\infix.c","group":"local","local":true}

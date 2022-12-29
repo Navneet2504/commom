@@ -1,0 +1,1 @@
+{"name":"Local: hacker","url":"d:\\commom\\dsa\\hacker.c","tests":[{"id":1668495160805,"input":"5\n1 2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\commom\\dsa\\hacker.c","group":"local","local":true}

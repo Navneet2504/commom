@@ -1,0 +1,1 @@
+{"name":"Local: gcd","url":"d:\\commom\\dsa\\ps\\gcd.c","tests":[{"id":1669348517224,"input":"10 15\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\commom\\dsa\\ps\\gcd.c","group":"local","local":true}
